@@ -26,4 +26,4 @@ declare namespace hkdf {
   ): Buffer;
 }
 
-export = hkdf;
+export default hkdf;

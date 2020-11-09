@@ -171,4 +171,4 @@ Object.defineProperties( hkdf, {
     },
 } );
 
-module.exports = hkdf;
+export default hkdf;
